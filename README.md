@@ -1,7 +1,13 @@
 # ERP Assistant Mobile App  <img src="https://github.com/rishikadwarak/ERP-Assistant/blob/master/erpasst_logo.png" alt="drawing" width="30"/>
 
+<!-- <p align="center">
+  <img src="https://github.com/rishikadwarak/ERP-Assistant-Mobile-App/blob/master/pics/erp_mobile_pic.jpeg" alt="drawing" width="200" />
+</p> -->
+
 <p align="center">
-  <img src="https://github.com/rishikadwarak/ERP-Assistant-Mobile-App/blob/master/erp_mobile_pic.jpeg" alt="drawing" width="200" />
+  <img src="https://github.com/rishikadwarak/ERP-Assistant-Mobile-App/blob/master/pics/front.jpeg" width="200" />         
+  <img src="https://github.com/rishikadwarak/ERP-Assistant-Mobile-App/blob/master/pics/attendance2.jpeg" width="200" />         
+  <img src="https://github.com/rishikadwarak/ERP-Assistant-Mobile-App/blob/master/pics/free slots.jpeg" width="200" />
 </p>
 
 \
